@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e09e0b-bb4a-4d8a-85e8-8dce65743deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sololearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bowling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+    <list default="true" id="c4e09e0b-bb4a-4d8a-85e8-8dce65743deb" name="Changes" comment="Получение ключа по максимальному значению. (Вывод победителя в боулинг)">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Cook/Cookable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Cook/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Interface/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Interface/PrintableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Type/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/Type/ThreeGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/User3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/consumer/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/consumer/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/function/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/predicate/PredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/supplier/SupplierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,7 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LHKRHYXjCDBivSQ1xSCEdughVd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +55,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Users/Lena/Projects/maxima",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,11 +73,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675522561078</updated>
-      <workItem from="1675522562320" duration="802000" />
+      <workItem from="1675522562320" duration="1128000" />
+      <workItem from="1676094392859" duration="12965000" />
+      <workItem from="1676140294502" duration="1236000" />
+      <workItem from="1676394854645" duration="794000" />
+      <workItem from="1676978066100" duration="7866000" />
     </task>
+    <task id="LOCAL-00001" summary="Получение ключа по максимальному значению. (Вывод победителя в боулинг)">
+      <created>1675523502865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523502865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Получение ключа по максимальному значению. (Вывод победителя в боулинг)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Получение ключа по максимальному значению. (Вывод победителя в боулинг)" />
   </component>
 </project>
